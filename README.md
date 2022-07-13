@@ -1,0 +1,2 @@
+# Database for Messaging System
+We all love to communicate. A system of communication is the above messaging system. A database model for a messaging system which can fit into variety of modern day systems was built. It includes entities such as user, message, user_contact, message_recipient, device_details and many more. Later, a database model with these entities and the relationships in between them was designed. Then, this messaging system database was created using **Oracle Sql Developer.**
